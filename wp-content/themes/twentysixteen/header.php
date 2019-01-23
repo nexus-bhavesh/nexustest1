@@ -20,7 +20,7 @@
 	<?php endif; ?>
 	<?php wp_head(); ?>
 </head>
-<!-- hello world test-->
+<!-- hello world test1-->
 <body <?php body_class(); ?>>
 <div id="page" class="site">
 	<div class="site-inner">
